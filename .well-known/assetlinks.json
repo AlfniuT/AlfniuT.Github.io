@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.alfniut.caida",
-    "sha256_cert_fingerprints": ["D1:3B:87:C3:1C:9F:6D:ED:25:B7:17:7D:76:38:E4:04:88:B0:D3:FE:DE:A3:15:B1:1A:3B:32:00:38:3D:39:AB"]
+    "sha256_cert_fingerprints": [
+      "D1:3B:87:C3:1C:9F:6D:ED:25:B7:17:7D:76:38:E4:04:88:B0:D3:FE:DE:A3:15:B1:1A:3B:32:00:38:3D:39:AB",
+      "F9:F8:F6:7F:40:A8:AD:DD:F0:B4:7A:10:FB:24:23:60:0C:D1:B3:2B:31:2B:F0:BD:05:97:60:CF:62:42:B2:6E"
+    ]
   }
 }]
